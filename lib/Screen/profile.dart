@@ -9,7 +9,7 @@ class Profile extends StatelessWidget {
       appBar: AppBar(
         title: const Text(
           "Profile",
-          style: TextStyle(fontWeight: FontWeight.w600, fontFamily: "poppins",letterSpacing: 0.5,),
+          style: TextStyle(fontWeight: FontWeight.w600, fontFamily: "poppins",letterSpacing: 0.3,),
         ),
         centerTitle: true,
       ),
@@ -41,7 +41,7 @@ class Profile extends StatelessWidget {
                   style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.w600,
-                      letterSpacing: 0.5,
+                      letterSpacing: 0.3,
                       fontFamily: "poppins"),
                 ),
               ],
@@ -55,7 +55,7 @@ class Profile extends StatelessWidget {
                       fontSize: 16,
                       fontWeight: FontWeight.w600,
                       color: Colors.grey,
-                      letterSpacing: 0.5,
+                      letterSpacing: 0.3,
                       fontFamily: "poppins"),
                 ),
               ],
@@ -72,7 +72,7 @@ class Profile extends StatelessWidget {
                         fontSize: 14,
                         fontWeight: FontWeight.w600,
                         color: Colors.grey,
-                        letterSpacing: 0.5,
+                        letterSpacing: 0.3,
                         fontFamily: "poppins"),
                   ),
                 ],
