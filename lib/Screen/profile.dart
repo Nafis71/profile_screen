@@ -9,7 +9,11 @@ class Profile extends StatelessWidget {
       appBar: AppBar(
         title: const Text(
           "Profile",
-          style: TextStyle(fontWeight: FontWeight.w600, fontFamily: "poppins",letterSpacing: 0.3,),
+          style: TextStyle(
+            fontWeight: FontWeight.w600,
+            fontFamily: "poppins",
+            letterSpacing: 0.3,
+          ),
         ),
         centerTitle: true,
       ),
