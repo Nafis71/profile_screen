@@ -56,7 +56,7 @@ class Profile extends StatelessWidget {
                 Text(
                   "shahrukhkhan@gmail.com",
                   style: TextStyle(
-                      fontSize: 16,
+                      fontSize: 15,
                       fontWeight: FontWeight.w600,
                       color: Colors.grey,
                       letterSpacing: 0.3,
